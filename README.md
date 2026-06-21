@@ -1,2 +1,5 @@
 # MeowJB
-The jailbreak tool.
+The jailbreak tool
+This jailbreak is a fork of dopamine jailbreak.
+MeowJB is a jailbrek by a femboy (lesbian)
+the creator @archytech2 on tiktok.
